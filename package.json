@@ -1,6 +1,6 @@
 {
   "name": "reqlite",
-  "version": "2.3.3",
+  "version": "2.3.4",
   "description": "",
   "main": "lib/index.js",
   "bin": {
@@ -31,7 +31,6 @@
     "geolib": "3.3.1",
     "minimist": "1.2.6",
     "moment": "2.29.4",
-    "request": "2.88.2",
     "uuid-1345": "1.0.2"
   },
   "devDependencies": {
